@@ -86,7 +86,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  * validating data using bean validator full
  * Implementing Pagination
  * Implement Sorting
- * Implement Searching
  * Spring Security Basic Auth
  * Spring Security JWT Auth
  * JWT implementing in project
